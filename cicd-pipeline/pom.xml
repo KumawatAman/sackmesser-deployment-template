@@ -115,7 +115,7 @@ limitations under the License.
 									<directory>${project.root.dir}</directory>
 									<filtering>true</filtering>
 									<includes>
-										<include>apiproxy/**</include>
+										<include>proxies/**/apiproxy/**</include>
 										<include>sharedflowbundle/**</include>
 										<include>test/integration/**</include>
 										<include>resources/**</include>
